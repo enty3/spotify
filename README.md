@@ -1,8 +1,8 @@
 # spotify
 spotify ukol pro bosse pana macuru
 
-Spotify: JumpBack in
+Spotify.html : JumpBack in
 spotifystyle: css pro jumpback in
 
-Spotify2: RandomPlaylist
+Spotify2.html : RandomPlaylist
 spotifyplaylist: css pro randomplaylist
